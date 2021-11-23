@@ -1,0 +1,16 @@
+Allocation;
+Process 1: 0 1 0;
+Process 2: 2 0 0;
+Process 3: 3 0 2;
+Process 4: 2 1 1;
+Process 5: 0 0 2;
+
+Max;
+Process 1: 7 5 3;
+Process 2: 3 2 2;
+Process 3: 9 0 2;
+Process 4: 2 2 2;
+Process 5: 4 3 3;
+
+Available;
+Resources: 3 3 2;
